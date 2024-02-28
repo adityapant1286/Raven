@@ -1,0 +1,63 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>Raven</id>
+    <version>1.0.0</version>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+    <name>Raven</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor email="aditya.java6@gmail.com">Aditya Pant</vendor>
+
+    <idea-version since-build="231" until-build="241.*"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <description><![CDATA[
+    <h3>Overview</h3>
+    <p>
+    Introducing a new IntelliJ theme called Raven, which offers a sleek and visually pleasing experience for developers.
+    With its dark and minimalist design, Raven aims to provide a refreshing and immersive environment
+    that enhances focus and productivity.
+    </p>
+    <p>
+    The theme incorporates a mixture of dark grays and deep blues, creating a striking contrast that is easy on the eyes.
+    This choice of color scheme not only adds a touch of elegance, but also reduces eye strain, especially during extended coding sessions.
+    </p>
+    <br>
+    <p>
+        <a href="https://github.com/adityapant1286/Raven/issues">Report issues</a>
+    </p>
+
+    <h3>Available themes:</h3>
+    <pre>
+       Raven - Ice blue accent
+    </pre>
+
+    <blockquote>
+    <strong>Note:</strong> For the best results it is recommended to restart intellij after installing and uninstalling plugins.
+    </blockquote>
+
+    <br>
+  ]]></description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes><![CDATA[
+
+    <p>Introducing a new Raven dark theme - Ice blue accent.</p>
+
+  ]]></change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="Raven" path="/theme/Raven.theme.json"/>
+    </extensions>
+</idea-plugin>
