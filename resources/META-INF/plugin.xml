@@ -30,7 +30,7 @@
     </p>
     <br>
 
-    <h4>Known intelliJ behavior:</h4>
+    <h3>Known intelliJ behavior:</h3>
     <p>
     After applying theme sometimes the editor color scheme sets to 'Classic Light'.
     When this happens, following solution will work:
@@ -41,10 +41,8 @@
         <li>On the right side panel, select 'Raven' from the scheme dropdown list.</li>
         <li>Click Apply and OK to close settings.</li>
     <ol>
-    <br>
 
-
-    <h4>Report Issue:</h4>
+    <h3>Report Issue:</h3>
     <p>
     <a href="https://github.com/adityapant1286/Raven/issues">Report issues</a>
     </p>
@@ -75,5 +73,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="Raven-Ice-Blue-Accent" path="/theme/Raven.theme.json"/>
+        <bundledColorScheme path="/scheme/Raven" />
     </extensions>
 </idea-plugin>
