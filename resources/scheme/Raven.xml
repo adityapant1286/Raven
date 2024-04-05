@@ -5,17 +5,17 @@
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="d4d4d9"/>
-        <option name="CARET_ROW_COLOR" value="2f3136"/>
+        <option name="CARET_ROW_COLOR" value="101011"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="101011"/>
         <option name="GUTTER_BACKGROUND" value="0f1117"/>
-        <option name="INDENT_GUIDE" value="2f3136"/>
+        <option name="INDENT_GUIDE" value="18181c"/>
         <option name="LINE_NUMBERS_COLOR" value="b2b0b0"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fdd615" />
         <option name="RIGHT_MARGIN_COLOR" value="2b2b2d"/>
         <option name="SELECTION_BACKGROUND" value="67769660"/>
-        <option name="VISUAL_INDENT_GUIDE" value="2f3136"/>
+        <option name="VISUAL_INDENT_GUIDE" value="18181c"/>
 
-        <option name="METHOD_SEPARATORS_COLOR" value="2f3136" />
+        <option name="METHOD_SEPARATORS_COLOR" value="18181c" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="ffffff4d" />
         <option name="ScrollBar.Mac.thumbColor" value="005c4426" />
         <option name="DOCUMENTATION_COLOR" value="1c222a" />

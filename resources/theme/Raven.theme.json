@@ -17,11 +17,10 @@
     "ravenx": "#0a0c10",
 
     "raven": "#0f1117",
-    "ravenO": "#171a1f",
     "ravenL": "#1c222a",
     "ravenD": "#101011",
 
-    "border": "#2a2a2f",
+    "border": "#242428",
     "borderL": "#37383d",
     "borderD": "#222426",
     "disabledBorder": "#424a4b",
@@ -56,13 +55,13 @@
     "buttonUpdate": "#c67f35",
     "tabActive": "#1d1d25",
 
-    "separatorColor": "#2f3136",
+    "separatorColor": "#18181c",
 
     "selectionBackground": "#3e4a5b",
     "selectionForeground": "#dfe7e5",
 
     "searchMatch": "#d77e23",
-    "searchMatchL": "#a5a840",
+    "searchMatchL": "#8e913c",
     "searchMatchA": "#e0b662",
 
     "errorForeground": "#d7d9d9",
