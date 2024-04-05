@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.trex.raven.iceblue</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -65,6 +65,8 @@
 
     <p>Introducing a new Raven dark theme - Ice blue accent.</p>
 
+    <p>Updated for intellij-IDEA 2024.1</p>
+
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
@@ -72,7 +74,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="Raven-Ice-Blue-Accent" path="/theme/Raven.theme.json"/>
-        <bundledColorScheme path="/scheme/Raven" />
+        <themeProvider id="Raven-Ice-Blue-Accent-Theme" path="/theme/Raven.theme.json"/>
+        <bundledColorScheme id="Raven-Ice-Blue-Accent-Scheme" path="/scheme/Raven" />
     </extensions>
 </idea-plugin>
