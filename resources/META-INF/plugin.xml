@@ -64,8 +64,8 @@
     <change-notes><![CDATA[
 
     <p>Introducing a new Raven dark theme - Ice blue accent.</p>
-
     <p>Updated for intellij-IDEA 2024.1</p>
+    <p>Fix for popup elements fail to render on MacOS</p>
 
   ]]></change-notes>
 
