@@ -516,7 +516,6 @@
     },
 
     "Popup": {
-      "paintBorder": "true",
       "borderColor": "border",
       "separatorColor": "separatorColor",
       "inactiveBorderColor": "notificationBackground",
