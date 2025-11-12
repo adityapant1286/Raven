@@ -1,7 +1,7 @@
-<scheme name="Raven" version="142" parent_scheme="Darcula">
+<scheme name="Raven-Coffee" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="originalScheme">_@user_Raven</property>
+        <property name="originalScheme">_@user_Raven-Coffee</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="d4d4d9"/>
