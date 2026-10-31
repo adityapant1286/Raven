@@ -7,7 +7,7 @@
         <option name="CARET_COLOR" value="d4d4d9"/>
         <option name="CARET_ROW_COLOR" value="101011"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="101011"/>
-        <option name="GUTTER_BACKGROUND" value="0f1117"/>
+        <option name="GUTTER_BACKGROUND" value="0b0c0f"/>
         <option name="INDENT_GUIDE" value="18181c"/>
         <option name="LINE_NUMBERS_COLOR" value="b2b0b0"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fdd615" />
@@ -236,7 +236,7 @@
         <option name="DART_SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="e9e9ea"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -373,7 +373,7 @@
         <option name="DEFAULT_SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="e9e9ea"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="DEFAULT_SEMICOLON">
@@ -593,7 +593,7 @@
         <option name="JS.FROM_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="e9e9ea"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
@@ -981,7 +981,7 @@
         <option name="PY.CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="47ccb1"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="PY.DECORATOR">
@@ -998,13 +998,13 @@
         <option name="PY.FUNCTION_CALL">
             <value>
                 <option name="FOREGROUND" value="e6e6aa"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="PY.IMPORTS">
             <value>
                 <option name="FOREGROUND" value="47ccb1"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="PY.KEYWORD_ARGUMENT">
@@ -1035,7 +1035,7 @@
         <option name="PY.SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="e9e9ea"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="PY.SELF_PARAMETER">
@@ -1058,7 +1058,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
             <value>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1146,7 +1146,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1165,7 +1165,7 @@
         <option name="TS.FROM_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="e9e9ea"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
             </value>
         </option>
         <option name="TS.MODULE_KEYWORD">
@@ -1208,14 +1208,14 @@
         <option name="XML_PROLOGUE">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="XML_TAG">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="0f1117"/>
+                <option name="BACKGROUND" value="0b0c0f"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
