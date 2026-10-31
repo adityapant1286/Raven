@@ -169,7 +169,7 @@
     },
 
     "Button": {
-      "arc": 8,
+      "arc": 12,
       "foreground": "foreground",
       "disabledBorderColor": "disabledBorder",
       "disabledText": "inactiveF",
@@ -242,7 +242,7 @@
     },
 
     "Component": {
-      "arc": 8,
+      "arc": 12,
       "iconColor": "accent",
       "hoverIconColor": "accentD",
       "borderColor": "border",
@@ -321,7 +321,7 @@
     },
 
     "GotItTooltip": {
-      "arc": 8,
+      "arc": 12,
       "foreground": "foreground",
       "background": "notificationBackground",
       "borderColor": "notificationBackground",
@@ -345,6 +345,10 @@
     "InformationHint.borderColor": "border",
 
     "InplaceRefactoringPopup.borderColor": "border",
+
+    "Island": {
+      "arc": 12
+    },
 
     "Label": {
       "background": "raven",
@@ -387,7 +391,7 @@
 
     "MemoryIndicator": {
       "usedBackground": "selectionB",
-      "allocatedBackground": "accentD"
+      "allocatedBackground": "yellow"
     },
 
     "Menu": {
@@ -422,7 +426,7 @@
     "NewUiOnboarding.Dialog.background": "raven",
 
     "Notification": {
-      "arc": 10,
+      "arc": 12,
       "foreground": "foreground",
       "background": "notificationBackground",
       "errorBackground": "errorBackground",
@@ -534,7 +538,7 @@
         "inactiveBackground": "inactiveB",
         "inactiveForeground": "inactiveF"
       },
-      "Selection.arc": 8
+      "Selection.arc": 12
     },
 
     "PopupMenu": {
@@ -542,7 +546,7 @@
       "foreground": "foreground",
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
-      "Selection.arc": 8
+      "Selection.arc": 12
     },
 
     "ProgressBar": {
